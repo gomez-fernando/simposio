@@ -1,0 +1,21 @@
+{
+    "name": "before_after/map_manager",
+    "description": "Wordpress plugin allow us embed map from openstreet maps on page",
+    "type": "wpplugin",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Mateusz",
+            "email": "mateusz.grzybowski@b4after.pl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BeforeAfter\\MapManager\\": "classes/"
+        },
+        "files": [
+            "includes/functions.php"
+        ]
+    }
+}

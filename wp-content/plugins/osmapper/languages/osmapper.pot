@@ -1,0 +1,287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: OSMapper\n"
+"POT-Creation-Date: 2019-07-18 14:49+0200\n"
+"PO-Revision-Date: 2019-07-18 14:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: osmapper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: classes/AjaxHandler.php:69 classes/AjaxHandler.php:75
+msgid "Successful delete"
+msgstr ""
+
+#: classes/AjaxHandler.php:72
+msgid "Failure delete"
+msgstr ""
+
+#: classes/FormBuilder.php:450
+msgid "Delete"
+msgstr ""
+
+#: classes/Install.php:33
+msgid "Map"
+msgstr ""
+
+#: classes/Install.php:34
+msgid "Maps"
+msgstr ""
+
+#: classes/Metabox.php:67 classes/Metabox.php:68
+msgid "Color Scheme"
+msgstr ""
+
+#: classes/Metabox.php:74 classes/Metabox.php:75
+msgid "Map offset"
+msgstr ""
+
+#: classes/Metabox.php:82 classes/Metabox.php:83
+msgid "Map zoom"
+msgstr ""
+
+#: classes/Metabox.php:94
+msgid "Map height (px)"
+msgstr ""
+
+#: classes/Metabox.php:95
+msgid "Map height"
+msgstr ""
+
+#: classes/Metabox.php:106 classes/Metabox.php:107
+msgid "Zoom on scroll"
+msgstr ""
+
+#: classes/Metabox.php:115 classes/Metabox.php:116
+msgid "Full screen"
+msgstr ""
+
+#: classes/Metabox.php:155
+msgid "Map localization"
+msgstr ""
+
+#: classes/Metabox.php:160
+msgid "Map config"
+msgstr ""
+
+#: classes/Metabox.php:165
+msgid "Map shortcode"
+msgstr ""
+
+#: classes/Metabox.php:174
+msgid "Map preview"
+msgstr ""
+
+#: classes/Metabox.php:191
+msgid "Shortcode to paste on page"
+msgstr ""
+
+#: classes/Metabox.php:228
+msgid "You can dragg markers to place them in right spot"
+msgstr ""
+
+#: classes/Metabox.php:267
+msgid "Get coordinates"
+msgstr ""
+
+#: classes/Metabox.php:383 classes/Metabox.php:406
+msgid "Yes"
+msgstr ""
+
+#: classes/Metabox.php:388 classes/Metabox.php:411
+msgid "No"
+msgstr ""
+
+#: classes/Metabox.php:429
+msgid "center"
+msgstr ""
+
+#: classes/Metabox.php:434
+msgid "bottom"
+msgstr ""
+
+#: classes/Metabox.php:439
+msgid "left"
+msgstr ""
+
+#: classes/Metabox.php:444
+msgid "right"
+msgstr ""
+
+#: classes/Metabox.php:449
+msgid "top"
+msgstr ""
+
+#: classes/Metabox.php:483
+msgid "latitude"
+msgstr ""
+
+#: classes/Metabox.php:484
+msgid "longitude"
+msgstr ""
+
+#: classes/Metabox.php:485 classes/Metabox.php:573
+msgid "Street name and number"
+msgstr ""
+
+#: classes/Metabox.php:486 classes/Metabox.php:574
+msgid "City"
+msgstr ""
+
+#: classes/Metabox.php:487 classes/Metabox.php:575
+msgid "Zip code"
+msgstr ""
+
+#: classes/Metabox.php:515 classes/Metabox.php:570
+msgid "Pin"
+msgstr ""
+
+#: classes/Metabox.php:516
+msgid "Popup content"
+msgstr ""
+
+#: classes/Metabox.php:517
+msgid "Popup style"
+msgstr ""
+
+#: classes/Metabox.php:526
+msgid "Map Pin"
+msgstr ""
+
+#: classes/Metabox.php:534
+msgid "Popup information"
+msgstr ""
+
+#: classes/Metabox.php:550
+msgid "Popups styles"
+msgstr ""
+
+#: classes/Metabox.php:571
+msgid "Latitude"
+msgstr ""
+
+#: classes/Metabox.php:572
+msgid "Longitude"
+msgstr ""
+
+#: classes/Metabox.php:587
+msgid "Open"
+msgstr ""
+
+#: classes/PopupStyle.php:29
+msgid "Standard with border radius"
+msgstr ""
+
+#: classes/Posttype.php:32 classes/Posttype.php:33 classes/Posttype.php:34
+#: classes/Posttype.php:35
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: classes/Posttype.php:36 classes/Posttype.php:37 classes/Posttype.php:38
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: classes/Posttype.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: classes/Posttype.php:40
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: classes/Posttype.php:41
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: classes/Posttype.php:42
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: classes/Posttype.php:43
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: classes/Posttype.php:44
+#, php-format
+msgid "%s not found"
+msgstr ""
+
+#: classes/Posttype.php:45
+#, php-format
+msgid "%s not found in trash"
+msgstr ""
+
+#: classes/Posttype.php:107
+msgid "Delete map"
+msgstr ""
+
+#: classes/Renderer.php:34
+msgid "You must enter ID of generated map"
+msgstr ""
+
+#: classes/Standard.php:50
+msgid "Do you like OSMapper?"
+msgstr ""
+
+#: classes/Standard.php:51
+msgid "Give us 5 stars!"
+msgstr ""
+
+#: classes/Standard.php:62
+msgid "Review plugin"
+msgstr ""
+
+#: classes/Standard.php:63
+msgid "I already did it"
+msgstr ""
+
+#: includes/functions.php:43
+msgid "You should save post after changes"
+msgstr ""
+
+#: includes/functions.php:44
+msgid ""
+"Could not find coordinates for given address. Check again given details or "
+"move manually pin"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OSMapper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.b4after.pl/osmapper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugins help with adding map on page"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Interactive agency Before After"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.b4after.pl"
+msgstr ""

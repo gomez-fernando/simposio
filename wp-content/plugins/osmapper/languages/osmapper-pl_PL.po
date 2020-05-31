@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OSMapper\n"
+"POT-Creation-Date: 2019-07-18 14:47+0200\n"
+"PO-Revision-Date: 2019-08-28 11:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: osmapper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: classes/AjaxHandler.php:69 classes/AjaxHandler.php:75
+msgid "Successful delete"
+msgstr "Pomyślnie usunięto"
+
+#: classes/AjaxHandler.php:72
+msgid "Failure delete"
+msgstr "Nie udało się usunąć"
+
+#: classes/FormBuilder.php:450
+msgid "Delete"
+msgstr "Usuń"
+
+#: classes/Install.php:33
+msgid "Map"
+msgstr "Mapa"
+
+#: classes/Install.php:34
+msgid "Maps"
+msgstr "Mapy"
+
+#: classes/Metabox.php:67 classes/Metabox.php:68
+msgid "Color Scheme"
+msgstr "Schemat kolorystyczny"
+
+#: classes/Metabox.php:74 classes/Metabox.php:75
+msgid "Map offset"
+msgstr "Przesunięcie mapy"
+
+#: classes/Metabox.php:82 classes/Metabox.php:83
+msgid "Map zoom"
+msgstr "Powiększenie mapy"
+
+#: classes/Metabox.php:94
+msgid "Map height (px)"
+msgstr "Wysokość mapy (px)"
+
+#: classes/Metabox.php:95
+msgid "Map height"
+msgstr "Wysokość mapy"
+
+#: classes/Metabox.php:106 classes/Metabox.php:107
+msgid "Zoom on scroll"
+msgstr "Powiększenie przy przewijaniu strony (scroll)"
+
+#: classes/Metabox.php:115 classes/Metabox.php:116
+msgid "Full screen"
+msgstr "Pełny ekran"
+
+#: classes/Metabox.php:155
+msgid "Map localization"
+msgstr "Lokalizacja mapy"
+
+#: classes/Metabox.php:160
+msgid "Map config"
+msgstr "Konfiguracja mapy"
+
+#: classes/Metabox.php:165
+msgid "Map shortcode"
+msgstr "Shortcode mapy"
+
+#: classes/Metabox.php:174
+msgid "Map preview"
+msgstr "Podgląd mapy"
+
+#: classes/Metabox.php:191
+msgid "Shortcode to paste on page"
+msgstr "Shortcode do wklejenia na stronie"
+
+#: classes/Metabox.php:228
+msgid "You can dragg markers to place them in right spot"
+msgstr "Możesz przeciągać markery, aby umieścić je w odpowiednim miejscu"
+
+#: classes/Metabox.php:267
+msgid "Get coordinates"
+msgstr "Współrzędne"
+
+#: classes/Metabox.php:383 classes/Metabox.php:406
+msgid "Yes"
+msgstr "Tak"
+
+#: classes/Metabox.php:388 classes/Metabox.php:411
+msgid "No"
+msgstr "Nie"
+
+#: classes/Metabox.php:429
+msgid "center"
+msgstr "środek"
+
+#: classes/Metabox.php:434
+msgid "bottom"
+msgstr "dół"
+
+#: classes/Metabox.php:439
+msgid "left"
+msgstr "lewo"
+
+#: classes/Metabox.php:444
+msgid "right"
+msgstr "prawo"
+
+#: classes/Metabox.php:449
+msgid "top"
+msgstr "góra"
+
+#: classes/Metabox.php:483
+msgid "latitude"
+msgstr "szerokość geograficzna (latitude)"
+
+#: classes/Metabox.php:484
+msgid "longitude"
+msgstr "długość geograficzna (longitude)"
+
+#: classes/Metabox.php:485 classes/Metabox.php:573
+msgid "Street name and number"
+msgstr "Nazwa i numer ulicy"
+
+#: classes/Metabox.php:486 classes/Metabox.php:574
+msgid "City"
+msgstr "Miasto"
+
+#: classes/Metabox.php:487 classes/Metabox.php:575
+msgid "Zip code"
+msgstr "Kod pocztowy"
+
+#: classes/Metabox.php:515 classes/Metabox.php:570
+msgid "Pin"
+msgstr "Pinezka"
+
+#: classes/Metabox.php:516
+msgid "Popup content"
+msgstr "Treść wyskakującego okienka"
+
+#: classes/Metabox.php:517
+msgid "Popup style"
+msgstr "Styl popupu"
+
+#: classes/Metabox.php:526
+msgid "Map Pin"
+msgstr "Pinezka"
+
+#: classes/Metabox.php:534
+msgid "Popup information"
+msgstr "Informacje na popupie"
+
+#: classes/Metabox.php:550
+msgid "Popups styles"
+msgstr "Style popupu"
+
+#: classes/Metabox.php:571
+msgid "Latitude"
+msgstr "Szerokość geograficzna (latitude)"
+
+#: classes/Metabox.php:572
+msgid "Longitude"
+msgstr "Długość geograficzna (Longitude)"
+
+#: classes/Metabox.php:587
+msgid "Open"
+msgstr "Otwórz"
+
+#: classes/PopupStyle.php:29
+msgid "Standard with border radius"
+msgstr "Standard z zaokrąglonymi ramkami"
+
+#: classes/Posttype.php:32 classes/Posttype.php:33 classes/Posttype.php:34
+#: classes/Posttype.php:35
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: classes/Posttype.php:36 classes/Posttype.php:37 classes/Posttype.php:38
+#, php-format
+msgid "New %s"
+msgstr "Nowa %s"
+
+#: classes/Posttype.php:39
+#, php-format
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: classes/Posttype.php:40
+#, php-format
+msgid "View %s"
+msgstr "Zobacz %s"
+
+#: classes/Posttype.php:41
+#, php-format
+msgid "All %s"
+msgstr "Wszystkie %s"
+
+#: classes/Posttype.php:42
+#, php-format
+msgid "Search %s"
+msgstr "Wyszukaj %s"
+
+#: classes/Posttype.php:43
+#, php-format
+msgid "Parent %s"
+msgstr "Rodzic %s"
+
+#: classes/Posttype.php:44
+#, php-format
+msgid "%s not found"
+msgstr "%s nie odnaleziony"
+
+#: classes/Posttype.php:45
+#, php-format
+msgid "%s not found in trash"
+msgstr "%s nie znaleziono w koszu"
+
+#: classes/Posttype.php:107
+msgid "Delete map"
+msgstr "Usuń mapę"
+
+#: classes/Renderer.php:34
+msgid "You must enter ID of generated map"
+msgstr "Musisz wprowadzić ID wygenerowanej mapy"
+
+#: classes/Standard.php:50
+msgid "Do you like OSMapper?"
+msgstr "Lubisz OSMapper?"
+
+#: classes/Standard.php:51
+msgid "Give us 5 stars!"
+msgstr "Daj nam 5 gwiazdek!"
+
+#: classes/Standard.php:62
+msgid "Review plugin"
+msgstr "Recenzja wtyczki"
+
+#: classes/Standard.php:63
+msgid "I already did it"
+msgstr "Już to zrobiłem"
+
+#: includes/functions.php:43
+msgid "You should save post after changes"
+msgstr "Należy zapisać post po zmianach"
+
+#: includes/functions.php:44
+msgid ""
+"Could not find coordinates for given address. Check again given details or "
+"move manually pin"
+msgstr ""
+"Nie można odnaleźć współrzędnych dla podanego adresu. Sprawdź ponownie "
+"podane szczegóły lub przenieść ręcznie pinezkę"
+
+#. Plugin Name of the plugin/theme
+msgid "OSMapper"
+msgstr "OSMapper"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.b4after.pl/osmapper"
+msgstr "http://www.b4after.pl/osmapper"
+
+#. Description of the plugin/theme
+msgid "Plugins help with adding map on page"
+msgstr "Pluginy pomaga dodać mapy na stronie"
+
+#. Author of the plugin/theme
+msgid "Interactive agency Before After"
+msgstr "Agencja interaktywna Before After"
+
+#. Author URI of the plugin/theme
+msgid "http://www.b4after.pl"
+msgstr "http://www.b4after.pl"
+
+#~ msgid "Before / After"
+#~ msgstr "Przed / Po"
