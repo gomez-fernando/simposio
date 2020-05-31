@@ -2713,7 +2713,8 @@ form.post-password-form {
 }
 
 .header-wrapper {
-    background-color: rgba(255,255,255,0.25);
+	background-image: url("../bring-back/images/background.png");
+    /*background-color: rgba(255,255,255,0.25);*/
 }
 
 

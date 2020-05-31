@@ -71,7 +71,7 @@ if( esc_attr( $pre_loader ) == true ) :
                         <!-- .logo start -->
                         <div class="logo-wrap">
                             <a href="https://www.separ.es/" class="custom-logo-link" rel="home" target="_blank">
-                                <img class="custom-logo" src="https://www.doctaforum.org/2021/simposiosepar1234/wp-content/themes/bring-back/images/logo-cliente.png">
+                                <img class="custom-logo" src="/wp-content/themes/bring-back/images/logo-cliente.png">
                             </a>
                             
                         </div>
@@ -165,7 +165,7 @@ if( esc_attr( $pre_loader ) == true ) :
 
                             <!-- <div class="col-lg-7 col-12 offset-lg-5 hero-banner hero-has-banner-animation"> -->
                             <div class="col-lg-7 col-12 offset-lg-5 hero-banner">
-                                <img src="https://www.doctaforum.org/2021/simposiosepar1234/wp-content/themes/bring-back/images/caja-inicio.png" class="img-fluid">
+                                <img src="https://www.doctaforum.org/2021/simposiosepar1234/wp-content/themes/bring-back/images/logo-cliente.png" class="img-fluid">
                             </div>
 
                         <div class="col-lg-5 col-12">
